@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    /* 
+    Your custom base styles goes here!
+
+    Eg.
+    @font-face {
+        font-family: 'Lorem Type';
+        src: url('../fonts/LoremType.woff2') format('woff2');
+    }
+    */
+  }
+  
+  @layer components {
+    /* Extend with custom components */
+  }
+  
+  @layer utilities {
+    /* Add styles to the utility layer. */
+  }
